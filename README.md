@@ -1,6 +1,6 @@
 # BIT-DataMining-Project
 
-北京理工大学2020年数据挖掘课程项目-算法1部分
+北京理工大学2020年数据挖掘课程项目-算法1部分（最终版）
 
 ## 选题名称：二手车交易价格预测（阿里天池比赛）
 
@@ -10,7 +10,7 @@
 * [提交数据（2020.7.2已更新）：output/submit.csv](./output)
 
 ### 算法1（2020.7.2已更新）
-* [algorithm1_linear_regression.ipynb](./algorithm1_final.ipynb)
+* [algorithm1_final.ipynb](./algorithm1_final.ipynb)
 
 ### 说明（2020.7.2已更新）
 * 将数据集data/train_data_v1.csv中的数据拆分为训练集与测试集两部分，以便进行多模型的训练与评测比较
